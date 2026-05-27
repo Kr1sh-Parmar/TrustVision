@@ -1,0 +1,34 @@
+# Python Virtual Environments
+venv/
+env/
+.env
+
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Node.js (for the React frontend)
+node_modules/
+build/
+.npm/
+
+# Large Machine Learning Models
+models/*.h5
+models/*.pkl
+models/*.pb
+
+# Uploads and User Data
+uploads/
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
